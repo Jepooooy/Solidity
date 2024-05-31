@@ -55,7 +55,3 @@ After the contract is deployed, you can interact with it by calling its function
 Metacrafter Chris  
 [@metacraftersio](https://twitter.com/metacraftersio)
 
-## License
-
-This project is licensed under the MIT License - see the LICENSE.md file for details
-
